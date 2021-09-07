@@ -1,0 +1,2 @@
+# lingdata
+hse
